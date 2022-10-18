@@ -1,0 +1,15 @@
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\bin\Debug\net6.0\GeradorDeEscalaGCM.exe
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\bin\Debug\net6.0\GeradorDeEscalaGCM.deps.json
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\bin\Debug\net6.0\GeradorDeEscalaGCM.runtimeconfig.json
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\bin\Debug\net6.0\GeradorDeEscalaGCM.dll
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\bin\Debug\net6.0\GeradorDeEscalaGCM.pdb
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.csproj.AssemblyReference.cache
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.AssemblyInfoInputs.cache
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.AssemblyInfo.cs
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.csproj.CoreCompileInputs.cache
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.dll
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\refint\GeradorDeEscalaGCM.dll
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.pdb
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\GeradorDeEscalaGCM.genruntimeconfig.cache
+C:\Users\edist\source\repos\GeradorDeEscalaGCM\GeradorDeEscalaGCM\obj\Debug\net6.0\ref\GeradorDeEscalaGCM.dll
