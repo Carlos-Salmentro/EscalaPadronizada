@@ -12,7 +12,7 @@ namespace GeradorDeEscalaGCM.Dominio.Escala
         {
             foreach (Servidor servidor in Efetivo.EfetivoBase)
             {
-                if (servidor.Funcao == "ASSISTENTE TÉCNICO ADM")
+                if (servidor.Funcao == "ASSISTENTE TÉCNICO OPERACIONAL")
                     ATO = servidor;
             }
 
